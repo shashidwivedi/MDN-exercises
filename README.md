@@ -1,2 +1,2 @@
-# MDN-exercises
-For quick mdn exercises
+# Stopwatch
+MDN-exercise to extend stopwatch functionalities
