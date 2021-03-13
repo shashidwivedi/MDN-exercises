@@ -21,6 +21,6 @@ stopBtn.addEventListener("click", function () {
 });
 
 resetBtn.addEventListener('click', function () {
-    clearInterval();
+    clearInterval(createClock);
     clock.textContent = 0;
 });
