@@ -36,6 +36,6 @@ stopBtn.addEventListener("click", function () {
 
 resetBtn.addEventListener('click', function () {
     clearInterval(createClock);
-    clock.textContent = 0;
+    clock.textContent = "00:00:00";
     startBtn.disabled = false;
 });
